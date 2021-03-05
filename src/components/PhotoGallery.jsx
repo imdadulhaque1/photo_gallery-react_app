@@ -1,11 +1,11 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import OnlineAchievement from "../images/OnlineAchieveMent/NLP.png";
-import Tour from "../images/TourTime/IMG_20200907_131820.jpg";
-import CampusTime from "../images/CampusTime/IMG_20200928_191732.jpg";
-import Publication from "../images/Publication/python crush course.png";
-import Eating from "../images/Eatting/IMG_20210211_204943.jpg";
-import DIU_Convocation from "../images/DIU_Convocation/5.jpg";
+import OnlineAchievement from "../images/gallery/onelineAchievement_1.jpg";
+import Tour from "../images/gallery/tour_1.jpg";
+import CampusTime from "../images/gallery/campus_1.jpg";
+import Publication from "../images/gallery/publication_1.jpg";
+import Eating from "../images/gallery/eating_1.jpg";
+import DIU_Convocation from "../images/gallery/convocation_1.jpg";
 const PhotoGallery = () =>{
   return(
     <>
