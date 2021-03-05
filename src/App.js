@@ -7,7 +7,7 @@ import PhotoGallery from "./components/PhotoGallery";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import { Switch, Route} from "react-router-dom";
+import { Switch, Route, Redirect} from "react-router-dom";
 
 function App() {
   return (
@@ -19,6 +19,7 @@ function App() {
       <Route exact path="/about" component={About} />
       <Route exact path="/contact" component={Contact} />
       <Route exact path="/footer" component={Footer} />
+      <Redirect to="/" />
     </Switch>
     </>
   );
