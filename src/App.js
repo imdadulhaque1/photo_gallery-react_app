@@ -7,6 +7,7 @@ import PhotoGallery from "./components/PhotoGallery";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import OnelineAchievementPage from "./components/Gallery/OnelineAchievementPage";
 import { Switch, Route, Redirect} from "react-router-dom";
 
 function App() {
@@ -19,6 +20,8 @@ function App() {
       <Route exact path="/about" component={About} />
       <Route exact path="/contact" component={Contact} />
       <Route exact path="/footer" component={Footer} />
+      
+      <Route exact path="/photogallery/onelineachievement" component={OnelineAchievementPage} />
       <Redirect to="/" />
     </Switch>
     </>

@@ -1,11 +1,13 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import OnlineAchievement from "../images/gallery/onelineAchievement_1.jpg";
 import Tour from "../images/gallery/tour_1.jpg";
 import CampusTime from "../images/gallery/campus_1.jpg";
 import Publication from "../images/gallery/publication_1.jpg";
 import Eating from "../images/gallery/eating_1.jpg";
 import DIU_Convocation from "../images/gallery/convocation_1.jpg";
+import OnelineAcievementPage from "./Gallery/OnelineAchievementPage";
+
 const PhotoGallery = () =>{
   return(
     <>
@@ -23,8 +25,8 @@ const PhotoGallery = () =>{
                 <div className="card-body">
                     <h5 className="card-title font-weight-bold">Online Achievement</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <NavLink to="/src/components/Gallery/OnelineAchievementPage.jsx" className="btn btn-primary">
-                           <button> Show Album</button>
+                    <NavLink to="/photogallery/onelineachievement" className="btn btn-primary">
+                           Show Album
                     </NavLink>
                 </div>
                 </div>
