@@ -2,7 +2,7 @@ import React from "react";
 import Card from "../Card"
 import OAdata from "../../MadeData/OnelineAchievementData";
 
-const Service = () =>{
+const OnelineAchievementPage = () =>{
   return(
     <>
      <div className="my-5">
@@ -30,4 +30,4 @@ const Service = () =>{
     </>
   );
 };
-export default Service;
+export default OnelineAchievementPage;

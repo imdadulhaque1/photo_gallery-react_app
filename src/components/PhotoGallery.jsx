@@ -38,7 +38,7 @@ const PhotoGallery = () =>{
                 <div className="card-body">
                     <h5 className="card-title font-weight-bold">Publication</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <NavLink to="" className="btn btn-primary">
+                    <NavLink to="/photogallery/publication" className="btn btn-primary">
                             Show Album
                     </NavLink>
                 </div>
@@ -51,7 +51,7 @@ const PhotoGallery = () =>{
                 <div className="card-body">
                     <h5 className="card-title font-weight-bold">Campus Time</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <NavLink to="" className="btn btn-primary">
+                    <NavLink to="/photogallery/campustime" className="btn btn-primary">
                             Show Album
                     </NavLink>
                 </div>
