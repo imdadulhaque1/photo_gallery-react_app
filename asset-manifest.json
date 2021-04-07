@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/photo_gallery-react_app/static/css/main.4a20ee65.chunk.css",
-    "main.js": "/photo_gallery-react_app/static/js/main.dfcf34a0.chunk.js",
-    "main.js.map": "/photo_gallery-react_app/static/js/main.dfcf34a0.chunk.js.map",
+    "main.css": "/photo_gallery-react_app/static/css/main.8265a800.chunk.css",
+    "main.js": "/photo_gallery-react_app/static/js/main.49ef72f8.chunk.js",
+    "main.js.map": "/photo_gallery-react_app/static/js/main.49ef72f8.chunk.js.map",
     "runtime-main.js": "/photo_gallery-react_app/static/js/runtime-main.5691af6f.js",
     "runtime-main.js.map": "/photo_gallery-react_app/static/js/runtime-main.5691af6f.js.map",
     "static/css/2.5b617fdf.chunk.css": "/photo_gallery-react_app/static/css/2.5b617fdf.chunk.css",
-    "static/js/2.574a01a5.chunk.js": "/photo_gallery-react_app/static/js/2.574a01a5.chunk.js",
-    "static/js/2.574a01a5.chunk.js.map": "/photo_gallery-react_app/static/js/2.574a01a5.chunk.js.map",
+    "static/js/2.79eaba71.chunk.js": "/photo_gallery-react_app/static/js/2.79eaba71.chunk.js",
+    "static/js/2.79eaba71.chunk.js.map": "/photo_gallery-react_app/static/js/2.79eaba71.chunk.js.map",
     "index.html": "/photo_gallery-react_app/index.html",
     "static/css/2.5b617fdf.chunk.css.map": "/photo_gallery-react_app/static/css/2.5b617fdf.chunk.css.map",
-    "static/css/main.4a20ee65.chunk.css.map": "/photo_gallery-react_app/static/css/main.4a20ee65.chunk.css.map",
-    "static/js/2.574a01a5.chunk.js.LICENSE.txt": "/photo_gallery-react_app/static/js/2.574a01a5.chunk.js.LICENSE.txt",
+    "static/css/main.8265a800.chunk.css.map": "/photo_gallery-react_app/static/css/main.8265a800.chunk.css.map",
+    "static/js/2.79eaba71.chunk.js.LICENSE.txt": "/photo_gallery-react_app/static/js/2.79eaba71.chunk.js.LICENSE.txt",
     "static/media/1.6807f711.jpg": "/photo_gallery-react_app/static/media/1.6807f711.jpg",
     "static/media/12.c7d7a11c.jpg": "/photo_gallery-react_app/static/media/12.c7d7a11c.jpg",
     "static/media/2.12a62c1e.jpg": "/photo_gallery-react_app/static/media/2.12a62c1e.jpg",
@@ -29,9 +29,9 @@
     "static/media/convocation_1.567c927e.jpg": "/photo_gallery-react_app/static/media/convocation_1.567c927e.jpg",
     "static/media/eating_1.2d72f3ca.jpg": "/photo_gallery-react_app/static/media/eating_1.2d72f3ca.jpg",
     "static/media/home.c8eeb9b6.gif": "/photo_gallery-react_app/static/media/home.c8eeb9b6.gif",
-    "static/media/m_acc_1.d62b967f.png": "/photo_gallery-react_app/static/media/m_acc_1.d62b967f.png",
     "static/media/onelineAchievement_1.bd9c7e60.jpg": "/photo_gallery-react_app/static/media/onelineAchievement_1.bd9c7e60.jpg",
     "static/media/presentation_1.e823b380.jpg": "/photo_gallery-react_app/static/media/presentation_1.e823b380.jpg",
+    "static/media/presentation_2.4f10445e.png": "/photo_gallery-react_app/static/media/presentation_2.4f10445e.png",
     "static/media/publication_1.44c24e99.jpg": "/photo_gallery-react_app/static/media/publication_1.44c24e99.jpg",
     "static/media/python crush course.e288ca0a.png": "/photo_gallery-react_app/static/media/python crush course.e288ca0a.png",
     "static/media/tour_1.4d0930d3.jpg": "/photo_gallery-react_app/static/media/tour_1.4d0930d3.jpg"
@@ -39,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.5691af6f.js",
     "static/css/2.5b617fdf.chunk.css",
-    "static/js/2.574a01a5.chunk.js",
-    "static/css/main.4a20ee65.chunk.css",
-    "static/js/main.dfcf34a0.chunk.js"
+    "static/js/2.79eaba71.chunk.js",
+    "static/css/main.8265a800.chunk.css",
+    "static/js/main.49ef72f8.chunk.js"
   ]
 }
